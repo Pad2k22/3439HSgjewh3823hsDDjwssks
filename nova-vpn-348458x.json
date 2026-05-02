@@ -1,0 +1,31 @@
+{
+    "version": 1,
+
+    "panel": {
+      "url": "https://vpnaccess.showmustgoon.pro/api/v1/",
+      "name": "Nova VPN"
+    },
+
+    "min_versions": {
+      "android": "1.0.0",
+      "windows": "1.0.0",
+      "ios": "1.0.0",
+      "macos": "1.0.0"
+    },
+
+    "maintenance": {
+      "active": false,
+      "title": null,
+      "message": null,
+      "until": null
+    },
+
+    "message": {
+      "active": false,
+      "severity": "info",
+      "title": null,
+      "body": null,
+      "url": null
+    },
+
+    "fallback_panel_urls": []
