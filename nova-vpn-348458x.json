@@ -11,9 +11,9 @@
       "macos": "1.0.0"
     },
     "maintenance": {
-      "active": true,
-      "title": "Pompetta",
-      "message": "ahahah",
+      "active": false,
+      "title": "",
+      "message": "",
       "until": null
     },
     "message": {
